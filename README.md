@@ -1,1 +1,3 @@
-# XOGame
+![Screenshot 2023-10-24 112022](https://github.com/Girls-In-Tech/XOGame/assets/132067353/dd53cc0e-37d9-4b31-bd72-17315a86f2c1)
+The first step was to create the Java project structure Then we created a new Java project and named it XOGame Then inside this project, we created the following files and directories: XandO.java (main class file) XandOTest.java (test class file) README.md (for the project explanation).
+The second step was to implement the XandO class using the basic structure for an the XandO class we then wrote the tests in XandOTest.java We wrote JUnit tests to cover all the methods in the XOGame class, using the methods you told us to use like the checkWin(), reset(), and draw(). Making sure to cover all possible winning conditions and draw scenarios were covered and running the XandOTest.java to make sure all methods passed. Then we pushed our code to git
